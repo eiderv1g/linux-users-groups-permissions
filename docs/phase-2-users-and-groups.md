@@ -68,6 +68,7 @@ Expected membership:
 
 ## Screenshots
 
-- Users and groups created
+Users and groups created
+
 ![Users and groups created](/docs/screenshots/04-users-groups-created.png)
 

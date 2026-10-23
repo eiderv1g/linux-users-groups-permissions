@@ -38,11 +38,14 @@ processor count, and available disk space.
 
 ## Screenshots
 
-- Virtual machine configuration:
+Virtual machine configuration:
+
 ![Virtual machine configuration](/docs/screenshots/01-virtual-machine-settings.png)
 
-- First successful login:
+First successful login:
+
 ![First successful login](/docs/screenshots/02-ubuntu-first-login.png)
 
-- System information from the terminal:
+System information from the terminal:
+
 ![System information from the terminal](/docs/screenshots/03-system-information.png)
