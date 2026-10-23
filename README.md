@@ -33,3 +33,4 @@ and configure shared and restricted directories.
 ## Documentation
 
 - [Phase 1: Environment setup](docs/phase-1-environment.md)
+- [Phase 2: Users and Groups](docs/phase-2-users-and-groups.md)
